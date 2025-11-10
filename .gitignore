@@ -1,0 +1,50 @@
+# Archivos generados por LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.bbl
+*.blg
+*.run.xml
+*.thm
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.out
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+*.pdf
+
+# Archivos generados por BibTeX
+*.bbl
+*.blg
+
+# Archivos generados por MakeIndex
+*.ind
+*.idx
+*.ilg
+
+# Archivos generados por editor
+*.swp
+*.swo
+*~
+.DS_Store
+.auxlock
+
+# Archivos de configuración local
+latexmkrc
+
+# Archivos de salida de compilación
+build/
